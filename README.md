@@ -13,3 +13,10 @@ ASRock-Z370-Pro4  9900K Hackintosh
 | 显卡	  | 蓝宝石 白金 满血版 RX560 4G|
 | 显示器	  | LG 27UL850 27英寸 4K Type-C IPS|
 | 蓝牙和无线网卡		  | 博通 BCM943602CS |
+
+## 功能截图
+![boot menu](https://wujunze.com/blog-images/r/pic/20200508193513.png)
+![loading](https://wujunze.com/blog-images/r/pic/20200508193103.png)
+![install one](https://wujunze.com/blog-images/r/pic/20200508193138.png)
+![install end](https://wujunze.com/blog-images/r/pic/20200508193214.png)
+![htop one](https://wujunze.com/blog-images/r/pic/20200508193259.png)
