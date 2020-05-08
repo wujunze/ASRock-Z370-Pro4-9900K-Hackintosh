@@ -29,16 +29,27 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
+		<key>CustomLogo</key>
+		<false/>
 		<key>DefaultVolume</key>
-		<string>Macintosh HD</string>
-		<key>Fast</key>
-		<true/>
+		<string>Hackintosh HD</string>
 		<key>HibernationFixup</key>
 		<true/>
+		<key>Legacy</key>
+		<string>LegacyBiosDefault</string>
 		<key>NoEarlyProgress</key>
-		<true/>
+		<false/>
 		<key>Secure</key>
 		<false/>
+		<key>Timeout</key>
+		<integer>0</integer>
+		<key>XMPDetection</key>
+		<string>Yes</string>
+	</dict>
+	<key>BootGraphics</key>
+	<dict>
+		<key>UIScale</key>
+		<integer>2</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
