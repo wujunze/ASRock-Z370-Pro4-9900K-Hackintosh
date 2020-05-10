@@ -18,5 +18,6 @@ ASRock-Z370-Pro4  9900K Hackintosh
 ![boot menu](https://wujunze.com/blog-images/r/pic/20200508193513.png)
 ![loading](https://wujunze.com/blog-images/r/pic/20200508193103.png)
 ![install one](https://wujunze.com/blog-images/r/pic/20200508193138.png)
+![选择语言](https://wujunze.com/blog-images/r/pic/20200510205422.png)
 ![install end](https://wujunze.com/blog-images/r/pic/20200508193214.png)
 ![htop one](https://wujunze.com/blog-images/r/pic/20200508193259.png)
